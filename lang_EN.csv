@@ -1,0 +1,98 @@
+MAIN_TITLE,Obama Maze
+MAIN_SINGLE,Singleplayer
+MAIN_MULTI,Multiplayer
+MAIN_SETTINGS,Settings
+MAIN_MODS,Mods
+MAIN_QUIT,Quit
+DEBUG_WARN,This game is still in development. Please report any bugs
+ITEM_FLASHLIGHT,Flashlight
+ITEM_TABLET,Tablet
+ITEM_RADIO,Radio
+ITEM_BEAR,Bear Trap
+ITEM_NOTHING,Hands
+MODE_NORMAL,Normal Maze
+MODE_TUTORIAL,Tutorial Level
+MODE_FOREST,Forest Maze
+MODE_ENDLESS,Endless Level
+MODE_NIGHTMARE,Nightmare Maze
+MODE_CORN,Corn Maze
+EVENT_HALLOWEEN,Halloween '22
+EVENT_HALLOWEEN_DESC,The 2022 Halloween Event for Obama Maze.
+REGION_AMERICA,America
+REGION_ASIA,Asia
+REGION_EUROPE,Europe
+MISC_REGION,Region
+MISC_HOST,Host
+MISC_EVERYONE,Everyone
+MISC_FRIENDSONLY,Friends Only
+MULTI_CREATELOBBY,Create Lobby
+MISC_RETURNMM,Return to Main Menu
+MULTI_CONNECTED,Connected
+MULTI_FINDLOBBY,Find a Lobby
+MULTI_LOBBY,Lobby
+MISC_MAP,Map
+MISC_GAMEMODE,Gamemode
+MISC_PUBLICITY,Publicity,
+GAME_ITEMS_CURRENT,Current Items
+MULTI_SERVERLIST,Return to Server List
+MULTI_STARTGAME,Start Game
+LVL_SELECT,Maze Selection
+LVL_PLAY,Load Maze
+GAME_HOLD,HOLD
+GAME_SECONDS,Seconds
+MISC_VC,Voice
+DISCLAIMER,Disclaimer.\nThis game is still in Early Access.
+BACK,Back
+APPLY,Apply Changes
+DLC_TITLE,DLC and Mods
+DLC_UNLOADED,Unloaded Content
+DLC_LOADED,Loaded Content
+DLC_PLACEHOLDER_DESC,Don't worry, once you select a mod you'll see its description here.
+MISC_AUTHOR,Author: 
+DESC_NORMAL,You find yourself trapped in a brick maze with 7 Obamiums to collect. You've got a flashlight, a tablet, and a radio to use while also finding beartraps on the floor to slow down Obama. Once you collect all 7 Obamiums find a bright exit.
+DESC_TUTORIAL,Welcome to Obama Maze! Here is the place to go if you are confused about anything or to learn.
+DESC_FOREST,You are trapped in a forest where you need to collect 7 Obamiums before you can leave. You spawn with your usual 3 starting items and be careful of the water that will slow you down.
+DESC_ENDLESS,You are forever trapped in Obama's Maze collecting the highest of high score you can. This maze has infinite Obamiums and its still size limited.
+DESC_NIGHTMARE,Welcome to an absolute Nightmare. Obama will outrun you even if you sprint, the tablet is more limited, the radio has a shorter range, all power drains faster and careful of corruption...\n\n<color=red>This Maze is currently unplayable.</color>
+DESC_CORN,Welcome to the ranch! You will need to proceed inside and begin the maze on the computer. Only 1 Obamium can exist in the maze at a time so after you collect one you must find the exit again and submit it into the computer. Corn is breakable but will alert Obama to your location.\n\n<color=red>This Maze is currently unplayable.</color>
+MODE_DEBUG,MODE_DEBUG
+DESC_DEBUG,DESC_DEBUG
+WARN_DEBUG,stay away!!! it ruins the game... and its anthony's workspace
+SIMPLE_DISABLED,Disabled
+SIMPLE_ENABLED,Enabled
+SIMPLE_VERYHIGH,Very High
+SIMPLE_HIGH,High
+SIMPLE_MEDIUM,Medium
+SIMPLE_LOW,Low
+SIMPLE_FULLSCREEN,Fullscreen
+SIMPLE_BORDERLESS,Borderless
+SIMPLE_WINDOWED,Windowed
+SIMPLE_OTHER,Other
+SETTINGS_VIDEO,Video
+SETTINGS_GRAPHICS,Graphics
+SETTINGS_WINDOWMODE,Window Mode
+SETTINGS_RESOLUTION,Resolution
+SETTINGS_ASPECTRATIO,Aspect Ratio
+SETTINGS_FRAMERATE,Framerate
+SETTINGS_VSYNC,VSync
+SETTINGS_DLSS,DLSS
+SETTINGS_CRTFILTER,CRT Filter
+SETTINGS_TEXTUREQUALITY,Texture Quality
+SETTINGS_TEXTUREFILTERING,Texture Filtering
+SETTINGS_TEXTURESTEAMING,Texture Streaming
+SETTINGS_MODELQUALITY,Model Quality
+SETTINGS_MOTIONBLUR,Motion Blur
+SETTINGS_LIGHTQUALITY,Lighting Quality
+SETTINGS_SHADOWQUALITY,Shadow Quality
+SETTINGS_NORMALMAPS,Reflective Maps
+SETTINGS_AA,Anti-Analyzing
+SETTINGS_MIXER, Mixer Settings
+SETTINGS_MASTER, Master Volume
+SETTINGS_MUSIC, Music Volume
+SETTINGS_VOICES, Voices Volume
+SETTINGS_SFX, Sound Effect Volume
+DESC_HEDGE, Welcome to the ranch! You will need to proceed inside and begin the maze on the computer. Only 1 Obamium can exist in the maze at a time so after you collect one you must find the exit again and submit it into the computer. The walls are breakable but will alert Obama to your location.\n\n<color=red>This Maze is currently unplayable.</color>
+MODE_HEDGE, Hedge Maze
+EVENT_HOLIDAY, Holiday Event - Snow Blasters
+DESC_HOLIDAY, You and Obama put your differences aside and have a snow GUN fight! Beat Obama in order to get the holiday achievement.
+MAIN_CREDITS,Credits
