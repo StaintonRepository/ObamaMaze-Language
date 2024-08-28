@@ -1,0 +1,98 @@
+MAIN_TITLE,Labirintul lui Obama
+MAIN_SINGLE,Un singur jucător
+MAIN_MULTI,Mai mulți jucători
+MAIN_SETTINGS,Setări
+MAIN_MODS,Moduri
+MAIN_QUIT,Ieși din joc
+DEBUG_WARN,Jocul acesta este încă in dezvoltare. Te rog să raportezi orice buguri.
+ITEM_FLASHLIGHT,Lanternă
+ITEM_TABLET,Tabletă
+ITEM_RADIO,Radio
+ITEM_BEAR,Capcană
+ITEM_NOTHING,Mâini
+MODE_NORMAL,Labirit normal
+MODE_TUTORIAL,Nivel de tutorial
+MODE_FOREST,Labirintul din pădure
+MODE_ENDLESS,Nivelul fără sfârșit
+MODE_NIGHTMARE,Labirintul de coșmar
+MODE_CORN,Labirintul de porumb
+EVENT_HALLOWEEN,Halloween '22
+EVENT_HALLOWEEN_DESC,Evenimentul de Halloween din 2022 pentru Labirintul lui Obama
+REGION_AMERICA,America
+REGION_ASIA,Asia
+REGION_EUROPE,Europa
+MISC_REGION,Regiune
+MISC_HOST,Gazdă
+MISC_EVERYONE,Toată lumea
+MISC_FRIENDSONLY,Doar prieteni
+MULTI_CREATELOBBY,Creează o cameră
+MISC_RETURNMM,Întoarcete la meniul principal
+MULTI_CONNECTED,Conectat
+MULTI_FINDLOBBY,Gășete o cameră
+MULTI_LOBBY,Cameră
+MISC_MAP,Hartă
+MISC_GAMEMODE,Mod de joacă
+MISC_PUBLICITY,Publicitate
+GAME_ITEMS_CURRENT,Obiectele actuale
+MULTI_SERVERLIST,Întoarcete la lista de servere
+MULTI_STARTGAME,Începe jocul
+LVL_SELECT,Selectează un labirint
+LVL_PLAY,Înarcă labirint
+GAME_HOLD,HOLD
+GAME_SECONDS,Seconds
+MISC_VC,Voce
+DISCLAIMER,Atenție. Acest joc este încă in Early Access
+BACK,Înapoi
+APPLY,Aplică schimbările
+DLC_TITLE,DLC si moduri
+DLC_UNLOADED,Conținut neîncărcat
+DLC_LOADED,Conținut încărcat
+DLC_PLACEHOLDER_DESC,Nu te îngrijora, odată ce ai selectat un mod îi vei vedea descrierea aici.
+MISC_AUTHOR,Autor 
+DESC_NORMAL,Te trezești prins într-un labirint de cărămidă cu 7 bucăți de Obamium de colectat. Ai la tine o lanternă, o tabletă și un radio pe care le poți folosi, iar pe lângă acestea poți găsi pe jos capcane pe care le vei folosi pentru a-l încetini pe Obama. Odată ce găsești cele 7 bucăți de Obamium, caută ieșirea puternic luminată.
+DESC_TUTORIAL,Bine ai venit in Labirintul lui Obama! Acesta este locul in care poți veni dacă ai vreo confuzie sau vrei să înveți.
+DESC_FOREST,Ești blocat într-o pădure și trebuie să colectezi 7 bucăți de Obamium înainte să poți pleca. Ai la tine cele trei obiecte de început și ai grijă la apa care te va încetini.
+DESC_ENDLESS,Ești blocat pentru totdeauna în Labirintul lui Obama, colectând cât mai multe bucăți de Obamium pentru a obține un scor cât mai mare. Acest labirint are un număr infinit de Obamium, dar labirintul este tot limitat.
+DESC_NIGHTMARE,Bine ai venit în cel mai mare coșmar! Obama este mai rapid decât tine chiar dacă fugi, tableta este mai limitată, radioul are o rază mai mică, toată energia se scurge mai repede și ai grijă la corupție ...\n\n<color=red>Acest labirint nu se poate juca</color>
+DESC_CORN,Bine ai venit la fermă! Va trebui să intri înăuntru și să începi labirintul pe un calculator. Doar o singură bucată de Obamium poate exista în labirint la un moment dat, așa că după ce ai colectat una, trebuie să găsești ieșirea din nou și să o depui în calculator. Porumbul poate fi distrus, dar asta îl va alerta pe Obama, iar acesta va veni la tine\n\n<color=red>Acest labirint nu se poate juca.</color>
+MODE_DEBUG,MODE_DEBUG
+DESC_DEBUG,DESC_DEBUG
+WARN_DEBUG,stai departe!!! asta strică jocul... și este zona de lucru a lui Anthony
+SIMPLE_DISABLED,Dezactivat
+SIMPLE_ENABLED,Activat
+SIMPLE_VERYHIGH,Foarte înalte
+SIMPLE_HIGH,Înalte
+SIMPLE_MEDIUM,Medii
+SIMPLE_LOW,Mici
+SIMPLE_FULLSCREEN,Ecran complet
+SIMPLE_BORDERLESS,Fără margini
+SIMPLE_WINDOWED,Fereastră
+SIMPLE_OTHER,Altul
+SETTINGS_VIDEO,Video
+SETTINGS_GRAPHICS,Grafici
+SETTINGS_WINDOWMODE,Modul de fereastră
+SETTINGS_RESOLUTION,Rezoluție
+SETTINGS_ASPECTRATIO,Raportul de aspect
+SETTINGS_FRAMERATE,Framerate
+SETTINGS_VSYNC,VSync
+SETTINGS_DLSS,DLSS
+SETTINGS_CRTFILTER,Filtru CRT
+SETTINGS_TEXTUREQUALITY,Calitatea texturii
+SETTINGS_TEXTUREFILTERING,Filtrarea texturii
+SETTINGS_TEXTURESTEAMING,Streamingul texturii
+SETTINGS_MODELQUALITY,Calitatea modelului
+SETTINGS_MOTIONBLUR,Motion Blur
+SETTINGS_LIGHTQUALITY,Calitatea luminii
+SETTINGS_SHADOWQUALITY,Calitatea umbrei
+SETTINGS_NORMALMAPS,Hărti reflective
+SETTINGS_AA,Anti-Analyzing
+SETTINGS_MIXER, Setări de sunet
+SETTINGS_MASTER, Volum principal
+SETTINGS_MUSIC, Volum muzică
+SETTINGS_VOICES, Volumul vocilor
+SETTINGS_SFX, Volumul efectelor de sunet
+DESC_HEDGE, Bine ai venit la fermă! Va trebui să intri înăuntru și să începi labirintul pe un calculator. Doar o singură bucată de Obamium poate exista în labirint la un moment dat așa că după ce ai colectat una trebuie să găsești ieșirea din nou și să o depui in calculator. Porumbul se poate distruge, dar îl va alerta pe Obama, iar acesta va veni la tine\n\n<color=red>Acest labirint nu se poate juca.</color>
+MODE_HEDGE, Labirintul de gard viu
+EVENT_HOLIDAY, Eveniment de sărbătoare - Pistoale cu zăpadă
+DESC_HOLIDAY, Tu și Obama vă puneți diferențele la o parte si aveți parte la o luptă cu pistoale de zăpadă! Îvinge-l pe Obama pentru a obține achivementul de sărbătoare.
+MAIN_CREDITS,Credite
