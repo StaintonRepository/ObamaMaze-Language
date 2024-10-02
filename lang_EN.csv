@@ -96,3 +96,7 @@ MODE_HEDGE, Hedge Maze
 EVENT_HOLIDAY, Holiday Event - Snow Blasters
 DESC_HOLIDAY, You and Obama put your differences aside and have a snow GUN fight! Beat Obama in order to get the holiday achievement.
 MAIN_CREDITS,Credits
+MP_ITEM_FLASHLIGHT,Flashlight
+MP_ITEM_TABLET,Tablet
+MP_ITEM_RADIO,Radio
+MP_ITEM_BEAR,Bear Trap
