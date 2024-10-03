@@ -91,8 +91,8 @@ SETTINGS_MASTER, Master Volume
 SETTINGS_MUSIC, Music Volume
 SETTINGS_VOICES, Voices Volume
 SETTINGS_SFX, Sound Effect Volume
-DESC_HEDGE, Welcome to the ranch! You will need to proceed inside and begin the maze on the computer. Only 1 Obamium can exist in the maze at a time so after you collect one you must find the exit again and submit it into the computer. The walls are breakable but will alert Obama to your location.\n\n<color=red>This Maze is currently unplayable.</color>
-MODE_HEDGE, Hedge Maze
+DESC_HEDGE,Welcome to the ranch! You will need to proceed inside and begin the maze on the computer. Only 1 Obamium can exist in the maze at a time so after you collect one you must find the exit again and submit it into the computer. The walls are breakable but will alert Obama to your location.\n\n<color=red>This Maze is currently unplayable.</color>
+MODE_HEDGE,Hedge Maze
 EVENT_HOLIDAY, Holiday Event - Snow Blasters
 DESC_HOLIDAY, You and Obama put your differences aside and have a snow GUN fight! Beat Obama in order to get the holiday achievement.
 MAIN_CREDITS,Credits
@@ -100,3 +100,4 @@ MP_ITEM_FLASHLIGHT,Flashlight
 MP_ITEM_TABLET,Tablet
 MP_ITEM_RADIO,Radio
 MP_ITEM_BEAR,Bear Trap
+ITEM_RADAR,Radar
